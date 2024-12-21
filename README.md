@@ -17,4 +17,4 @@
 ## 서적
 
 - <a href="https://product.kyobobook.co.kr/detail/S000000833249">초보자를 위한 SQL 200제</a> 바로 가기
-- <img src="https://github.com/user-attachments/assets/cee41e0d-c49e-4b56-a329-792f8ff28164" alt="책 표지" />
+- <img src="https://github.com/user-attachments/assets/cee41e0d-c49e-4b56-a329-792f8ff28164" alt="책 표지" width="200" />
