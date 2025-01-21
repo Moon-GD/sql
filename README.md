@@ -17,7 +17,7 @@
 
 ### 참고
 
-- <a href="">sql 200제 README 바로 가기</a>
+- <a href="https://github.com/Moon-GD/sql/tree/main/sql-200">sql 200제 폴더 바로 가기</a>
 
 <br />
 
@@ -37,4 +37,4 @@
 
 ### 참고
 
-- <a href="">Real Mysql 8.0 README 바로 가기</a>
+- <a href="https://github.com/Moon-GD/sql/tree/main/real-mysql-8">Real Mysql 8.0 폴더 바로 가기</a>
