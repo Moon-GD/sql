@@ -5,4 +5,4 @@
 # 참고
 
 - 2025년 TODO List 中
-  -
+  - <img width="1029" alt="goal" src="https://github.com/user-attachments/assets/81cb5bd1-be36-487f-bfc3-c845be6c81cd" />
