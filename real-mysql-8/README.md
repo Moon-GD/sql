@@ -6,8 +6,8 @@
 
 # 챕터
 
-- <a href="/01.md">1. 소개</a>
-- <a href="/02.md">2. 설치와 설정</a>
+- <a href="/real-mysql-8/01.md">1. 소개</a>
+- <a href="/real-mysql-8/02.md">2. 설치와 설정</a>
 
 <br />
 
